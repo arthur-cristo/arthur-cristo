@@ -7,6 +7,7 @@
 - 📧 Contate-me por: arthur.cristo2804@gmail.com   
 - 🔤 Também estou no [Linkedin](https://www.linkedin.com/in/arthur-cristo/)  
 </p>
+<h2></h2>
 <div align=center>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh0bjBxbGd2OHc5dmEzajg4dnFrNjd5OGU0MTZhZmxoODA3cDlhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
 </div>  
