@@ -18,6 +18,7 @@
 <div align=center>
   <h2>Repositorios em Destaque</h2>
   <a href="https://github.com/arthur-cristo-silva/university-crud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo-silva&&theme=github_dark&repo=university-crud">
+  <a href="https://github.com/arthur-cristo-silva/Gas-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo-silva&&theme=github_dark&repo=Gas-Calculator">
 </div>
     
 <div align = center>
@@ -26,12 +27,18 @@
   <img height=160em src = "https://github-readme-stats.vercel.app/api?username=arthur-cristo-silva&show_icons=true&theme=github_dark">
   <img height=160em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cristo-silva&show_icons=true&theme=github_dark&layout=compact"</a>
 </div>
-    
+<!--
 <div align=center>
   <h2> </h2>
   <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white>
   <img src=https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white>
+  <img src=https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white>
   <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white>
-  <img src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white>
+  <img src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white>  
+  <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white>
+  <img src=https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white>
+  <img src=https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E>  
+  <img src=https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white>
   <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
 </div>
+-->
