@@ -24,8 +24,8 @@
 <div align = center>
   <h2>Github Status</h2>
   <a href="https://github.com/arthur-cristo-silva">
-  <img witdh = 49% src = "https://github-readme-stats.vercel.app/api?username=arthur-cristo-silva&show_icons=true&theme=github_dark">
-  <img witdh = 49% src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cristo-silva&show_icons=true&theme=github_dark&layout=compact"</a>
+  <img height=160em src = "https://github-readme-stats.vercel.app/api?username=arthur-cristo-silva&show_icons=true&theme=github_dark">
+  <img height=160em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cristo-silva&show_icons=true&theme=github_dark&layout=compact"</a>
 </div>
 <!--
 <div align=center>
