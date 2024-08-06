@@ -11,13 +11,13 @@ Meu nome é Arthur Cristo, e estou ingressando no mundo do desenvolvimento de so
 
 <div align=center>
   <h2>Repositorios em Destaque</h2>
-  <a href="https://github.com/arthur-cristo/UniversityCRUD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo&&theme=github_dark&repo=university-crud">
-  <a href="https://github.com/arthur-cristo/FuelChoice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo&theme=github_dark&repo=Gas-Calculator">
+  <a href="https://github.com/arthur-cristo/UniversityCRUD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo&&theme=github_dark&repo=UniversityCrud">
+  <a href="https://github.com/arthur-cristo/FuelChoice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo&theme=github_dark&repo=FuelChoice">
 </div>
     
 <div align = center>
   <h2>Github Status</h2>
   <a href="https://github.com/arthur-cristo">
-  <img height=160em src = "https://github-readme-stats.vercel.app/api?username=arthur-cristoa&show_icons=true&theme=github_dark">
+  <img height=160em src = "https://github-readme-stats.vercel.app/api?username=arthur-cristo&show_icons=true&theme=github_dark">
   <img height=160em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cristo&show_icons=true&theme=github_dark&layout=compact"</a>
 </div>
