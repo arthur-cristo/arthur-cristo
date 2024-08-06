@@ -11,13 +11,13 @@ Meu nome é Arthur Cristo, e estou ingressando no mundo do desenvolvimento de so
 
 <div align=center>
   <h2>Repositorios em Destaque</h2>
-  <a href="https://github.com/arthur-cristo-silva/university-crud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo-silva&&theme=github_dark&repo=university-crud">
-  <a href="https://github.com/arthur-cristo-silva/Gas-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo-silva&&theme=github_dark&repo=Gas-Calculator">
+  <a href="https://github.com/arthur-cristo/university-crud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo-silva&&theme=github_dark&repo=university-crud">
+  <a href="https://github.com/arthur-cristo/Gas-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo-silva&&theme=github_dark&repo=Gas-Calculator">
 </div>
     
 <div align = center>
   <h2>Github Status</h2>
-  <a href="https://github.com/arthur-cristo-silva">
-  <img height=160em src = "https://github-readme-stats.vercel.app/api?username=arthur-cristo-silva&show_icons=true&theme=github_dark">
-  <img height=160em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cristo-silva&show_icons=true&theme=github_dark&layout=compact"</a>
+  <a href="https://github.com/arthur-cristo">
+  <img height=160em src = "https://github-readme-stats.vercel.app/api?username=arthur-cristoa&show_icons=true&theme=github_dark">
+  <img height=160em src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cristo&show_icons=true&theme=github_dark&layout=compact"</a>
 </div>
