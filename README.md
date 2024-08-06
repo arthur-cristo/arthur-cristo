@@ -11,8 +11,8 @@ Meu nome é Arthur Cristo, e estou ingressando no mundo do desenvolvimento de so
 
 <div align=center>
   <h2>Repositorios em Destaque</h2>
-  <a href="https://github.com/arthur-cristo/university-crud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo-silva&&theme=github_dark&repo=university-crud">
-  <a href="https://github.com/arthur-cristo/Gas-Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo-silva&&theme=github_dark&repo=Gas-Calculator">
+  <a href="https://github.com/arthur-cristo/UniversityCRUD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo&&theme=github_dark&repo=university-crud">
+  <a href="https://github.com/arthur-cristo/FuelChoice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthur-cristo&theme=github_dark&repo=Gas-Calculator">
 </div>
     
 <div align = center>
