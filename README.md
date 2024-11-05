@@ -7,13 +7,15 @@ Meu nome é Arthur Cristo, e estou ingressando no mundo do desenvolvimento de so
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzh0bjBxbGd2OHc5dmEzajg4dnFrNjd5OGU0MTZhZmxoODA3cDlhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
 </div>  
 
-<h2/>
+<h2> </h2>
     
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arthur-cristo&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthur-cristo&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthur-cristo&theme=transparent&utcOffset=-3)](https://github.com/arthur-cristo) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthur-cristo&theme=transparent)](https://github.com/arthur-cristo) |  
  | ----------- | ----------- |
- 
+
+<h2> </h2>
+
 <div align="center" >
-  <a href="https://skillicons.dev"   >
+  <a href="https://github.com/arthur-cristo"   >
     <img src="https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,javascript,typescript,nodejs,next,express,react,jest,html,css,tailwind,bootstrap,python,cpp,git,github,mysql,postgres,mongodb,docker,idea,eclipse,vscode,pycharm,postman,supabase,vercel&perline=15" />
   </a>
   <br />
