@@ -26,6 +26,11 @@
       </a>
     </td>
   </tr>
+  <!-- <tr>
+    <td>
+      <img height=160em src = "https://github-readme-stats.vercel.app/api?username=arthur-cristo&show_icons=true&theme=github_dark">
+    </td>
+  </tr> -->
 </table>
 
 <div align="center">
