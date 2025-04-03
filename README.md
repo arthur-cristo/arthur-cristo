@@ -4,7 +4,7 @@
   <tr>
     <td align="left" width="60%">
       <p>
-        Hello, I'm Arthur Cristo, a FullStack Software Developer and third year student of bachelor of science in computer science. I'm most proficient at technologias like TypeScript, React, Next.js and more, I enjoy to always learn new things and overcome challenges. In my free time i like to play videogames and relaxing.
+        Hello, I'm Arthur Cristo, a FullStack Software Developer and student of bachelor of science in Computer Science. I'm most proficient at technologies like TypeScript, React, Node.js, Next.js and more. I enjoy to always learn new things and overcome challenges. In my free time i like to play videogames and relaxing.
       </p>
     </td>
     <td align="right" width="40%">
